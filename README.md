@@ -27,8 +27,8 @@ This repository provides a minimal setup for integrating **React**, **TypeScript
 To get started, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/alphadevking/threets.git
-cd threets
+git clone https://github.com/alphadevking/three_ts.git
+cd three_ts
 yarn install
 ```
 
